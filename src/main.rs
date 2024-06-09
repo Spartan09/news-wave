@@ -1,4 +1,4 @@
-use newswave::run;
+use newswave::startup::run;
 use std::net::TcpListener;
 
 #[tokio::main]
