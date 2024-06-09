@@ -1,6 +1,7 @@
 [package]
 name = "newswave"
 version = "0.1.0"
+authors = ["Ayushman ayushsg0412@gmail.com"]
 edition = "2021"
 
 [lib]
